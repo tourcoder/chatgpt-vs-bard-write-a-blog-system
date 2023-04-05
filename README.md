@@ -12,4 +12,4 @@ ChatGPT 真的很强，即便你是一个没有编程基础的人，都可能根
 
 ### 相关视频
 
-[用 ChatGPT 和 Google Bard 分别写一个博客系统，看谁更强？](https://www.youtube.com/watch?v=TPhXy2dfyvA)
+[用 ChatGPT 和 Google Bard 分别写一个博客系统，看谁更强？](https://www.youtube.com/watch?v=TPhXy2dfyvA) 
